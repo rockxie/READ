@@ -160,7 +160,7 @@
 
 一部作品的版权积分( NT )总发行量为 1300 万。其中，100 万转为 NT 券用于版权众筹，100 万注入兑换池底池，100 万存入社区公共账户，用于众筹额外奖励，以及后期的具体运营（ 如空投 ）。剩下的 1000 万则用于共享挖矿，通过「版权积分写作挖矿」逐步分发给社区。
 
-![图](https://raw.githubusercontent.com/rockxie/LianZai/master/imgs/1300w.png)
+![图](https://raw.githubusercontent.com/rockxie/READ/master/imgs/1300w.png)
 
 #### 版权积分券( NT券 )
 
@@ -221,7 +221,7 @@
 
 待完成
 
-![](https://github.com/rockxie/LianZai/blob/master/imgs/toupiaowakuang.png?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/toupiaowakuang.png?raw=true)
 
 
 ### 6.4 版权众筹开启
@@ -234,7 +234,7 @@
 
 **若天使 A 每日获得的 NT券为 M，则：**
 
-![](https://github.com/rockxie/LianZai/blob/master/imgs/tianshihuode.png?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/tianshihuode.png?raw=true)
 
 	InvestREAD：当日天使 A 投入的 READ 数量；TotalREAD：当日总投入的 READ 数)
 
@@ -242,7 +242,7 @@
 
 **若额外的 NT 奖励为 E，T 为众筹开始的天数，则：**
 
-![](https://github.com/rockxie/LianZai/blob/master/imgs/ewaijiangli.png?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/ewaijiangli.png?raw=true)
 
 例：
 
@@ -273,7 +273,7 @@
 
 产生的 NT 将根据以下比例进行分配：作家 50% ，读者 30% ，天使投资人 10% ，连载平台 10% 。其中，在众筹期间，天使投资人的数量会持续增加，分配时按已经分发的 NT 券进行分红。
 
-![](https://github.com/rockxie/LianZai/blob/master/imgs/ntxiezuowakuang.png?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/ntxiezuowakuang.png?raw=true)
 
 例，作家张三某日写作了 5000 字，根据算法，当日共有 10000 枚 NT 产出，则张三可获得 5000 NT，读者获得 3000 NT 奖励，天使投资人获得 1000 NT 分红，剩余 1000 NT 归平台所有。
 
@@ -287,8 +287,7 @@
 
 需要特别指出的是，此后 READ 写作挖矿所产生的 READ 数量的 50%，将直接用于 NT 回购，所得到的 NT，则存入作品的社区公共账户。
 
-![](https://github.com/rockxie/LianZai/blob/master/imgs/duihuangchi.png?raw=true)
-
+![](https://github.com/rockxie/READ/blob/master/imgs/duihuangchi.png?raw=true)
 
 
 ### 6.7 兑换池扩容
@@ -318,6 +317,7 @@
 
 ## 讨论社区
 待完成
+
 
 
 
