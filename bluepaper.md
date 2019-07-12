@@ -306,7 +306,7 @@
 
 例，作家张三某日写作了 5000 字，根据算法，当日共有 10000 枚 NT 产出，则张三可获得 5000 NT，读者获得 3000 NT 奖励，天使投资人获得 1000 NT 分红，剩余 1000 NT 归平台所有。
 
-### 6.6 NT 兑换交易开启
+### 6.6 众筹后 NT 兑换交易开启
 
 版权众筹结束后，20 天的众筹期间所获得的全部 READ 都将注入到兑换池，同时，另外将有 100 万 NT 也注入到兑换池，同时，将根据 Bancor 协议算法，可以确定 NT 的初始价格，NT 和 READ 的自由兑换开启。
 
@@ -317,8 +317,6 @@
 ![](https://github.com/rockxie/READ/blob/master/imgs/zchwk.jpg?raw=true)
 
 需要特别指出的是，此后 READ 写作挖矿所产生的 READ 数量的 50%，将直接用于 NT 回购，所得到的 NT，则存入作品的社区公共账户。
-
-![](https://github.com/rockxie/READ/blob/master/imgs/duihuangchi.png?raw=true)
 
 
 ### 6.7 兑换池扩容
