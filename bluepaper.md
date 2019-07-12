@@ -113,6 +113,8 @@
 
 「挖矿」是一种比喻，源自「书中自有黄金矿」，作品就是一座金矿，作家写作的这个过程，相当于将这座金矿慢慢地采挖，我们称之为「写作挖矿」。
 
+![](https://github.com/rockxie/READ/blob/master/imgs/xzwk.jpg?raw=true)
+
 #### 算力
 
 算力即写作挖矿的速度和效率，算力越高，则挖矿速度越快，得到的金矿( 收益 )也就越多。算力和作家的写作字数、更新情况、以及作品的数据有关。此外，读者通过投票，也可以提升作品的产矿算力。
@@ -170,6 +172,10 @@
 
 从以上公式可以看到，若出块节点作品没有任何投票，即 x = 0，则作品爆块收益率为固定比例 30%，称之为「裸挖」。例：作品 A 某日爆了 2 个阅点块，则其裸挖收益为 2 X 250 X 30% = 150 READ。
 
+![](https://github.com/rockxie/READ/blob/master/imgs/wpwk.jpg?raw=true)
+
+
+![](https://github.com/rockxie/READ/blob/master/imgs/ypwk.jpg?raw=true)
 
 
 **收益率 y 的曲线如下：**
@@ -197,7 +203,7 @@
 一部作品的版权积分( NT )总发行量为 1300 万。其中，100 万转为 NT 券用于版权众筹，100 万注入兑换池底池，100 万存入社区公共账户，用于众筹额外奖励，以及后期的具体运营（ 如空投 ）。剩下的 1000 万则用于共享挖矿，通过「版权积分写作挖矿」逐步分发给社区。
 
 
-![图](https://raw.githubusercontent.com/rockxie/READ/master/imgs/1300w.png)
+![图](https://raw.githubusercontent.com/rockxie/READ/master/imgs/1300w.jpg)
 
 #### 版权积分券( NT券 )
 
@@ -284,6 +290,7 @@
 
 版权众筹结束前如果已经开启「阅点写作挖矿」，所产生的收益（阅点）会先存入「作品社区公共账户」，待众筹结束之后，注入到兑换池中回购版权积分，得到的版权积分也存入作品社区公共账户。
 
+![](https://github.com/rockxie/READ/blob/master/imgs/zczrdwk.jpg?raw=true)
 
 ### 6.5 版权积分写作挖矿开启
 
@@ -306,6 +313,8 @@
 紧接着，在此之前（预热期、众筹期）通过阅点写作挖矿产生的，存于社区公共账户的  READ，将全部注入到兑换池中购买 NT，所得 NT 存入作品社区公共账户中。 
 
 至此，NT 进入自由兑换阶段，任何人都可以用 READ 购买 NT ，或者出售 NT 获得 READ 。
+
+![](https://github.com/rockxie/READ/blob/master/imgs/zchwk.jpg?raw=true)
 
 需要特别指出的是，此后 READ 写作挖矿所产生的 READ 数量的 50%，将直接用于 NT 回购，所得到的 NT，则存入作品的社区公共账户。
 
