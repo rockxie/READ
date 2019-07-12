@@ -158,13 +158,16 @@
 
 这样，社区中的每一名成员的利益都将和作品的发展好坏息息相关，也会为作品的未来发展而作出自己的贡献。
 
+每一部作品都有自己的版权积分。
+
 一部作品的版权积分( NT )总发行量为 1300 万。其中，100 万转为 NT 券用于版权众筹，100 万注入兑换池底池，100 万存入社区公共账户，用于众筹额外奖励，以及后期的具体运营（ 如空投 ）。剩下的 1000 万则用于共享挖矿，通过「版权积分写作挖矿」逐步分发给社区。
+
 
 ![图](https://raw.githubusercontent.com/rockxie/READ/master/imgs/1300w.png)
 
 #### 版权积分券( NT券 )
 
-即锁定状态的版权积分，NT 券解锁为 NT ，需要 30 天时间，每天解锁 1/30 。持有 NT 券可享有 NT 挖矿的 10% 分红权。NT 券一旦开始解锁，则分红属性消失，并且过程不可逆。
+即锁定状态的版权积分，持有 NT 券可享有 NT 写作挖矿的 10% 分红权。众筹结束后30天，NT 券才能解锁为 NT，NT 券一旦解锁，则分红属性消失，并且解锁过程不可逆。
 
 
 ## 5  适用群体
@@ -215,11 +218,21 @@
 
 #### 6.3.1 无投票阅点写作挖矿
 
-待完成
+若出块节点作品没有任何投票，则作品爆块收益率为固定比例 30% 。
+
+例：作品 A 某日爆了 2 个阅点块，则阅点收益为 2 X 250 X 30% = 150 READ。
 
 #### 6.3.2 有投票阅点写作挖矿
 
-待完成
+若出块节点作品有推荐票，则收益率 Y 按以下公式计算：
+
+![](https://github.com/rockxie/READ/blob/master/imgs/shouyilv.png?raw=true)
+
+其中，x 为投票因子，其计算公式为：
+
+![](https://github.com/rockxie/READ/blob/master/imgs/toupiaoyinzi.png?raw=true)
+
+	BookVotes：当日作品获得票数；TotalVotes：当日全网票数；Nodes：出块节点数
 
 ![](https://github.com/rockxie/READ/blob/master/imgs/toupiaowakuang.png?raw=true)
 
