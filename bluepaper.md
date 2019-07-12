@@ -302,7 +302,7 @@
 
 产生的 NT 将根据以下比例进行分配：作家 50% ，读者 30% ，天使投资人 10% ，连载平台 10% 。其中，在众筹期间，天使投资人的数量会持续增加，分配时按已经分发的 NT 券进行分红。
 
-![](https://github.com/rockxie/READ/blob/master/imgs/ntxiezuowakuang.png?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/ntxiezuowakuang.jpg?raw=true)
 
 例，作家张三某日写作了 5000 字，根据算法，当日共有 10000 枚 NT 产出，则张三可获得 5000 NT，读者获得 3000 NT 奖励，天使投资人获得 1000 NT 分红，剩余 1000 NT 归平台所有。
 
