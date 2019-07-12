@@ -141,7 +141,7 @@
 
 爆款算法最核心的地方在于如何随机选择一个出块节点，为了保证绝对的公平，我们选取区块链公链项目 EOS 的相关参数作为随机数产生的种子。随机数具体公式如下：
 
-![](https://github.com/rockxie/READ/blob/master/imgs/suijishu.jpg?raw=true)
+![](https://github.com/rockxie/READ/blob/master/imgs/suijishu.png?raw=true)
 
 	HashTime:EOS爆块时间；SumOfEveryHashByte：哈希码每位Byte之和；LastHashByte：最后一位Byte。
 
