@@ -377,11 +377,11 @@
 
 ### 7.1 写作挖矿全景图
 
-![](https://github.com/rockxie/READ/blob/master/imgs/xzwk.jpg?raw=true)
+![](https://static.lianzai.com/system/20190715/lz_1563174144311.jpg!FIXED1080W?raw=true)
 
 ### 7.2 兑换池积分流动图
 
-![](https://github.com/rockxie/READ/blob/master/imgs/duihuanchi.jpg?raw=true)
+![](https://static.lianzai.com/system/20190715/lz_1563174182336.jpg!FIXED1080W?raw=true)
 
 
 ##  8 总结
