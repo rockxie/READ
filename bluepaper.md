@@ -167,7 +167,7 @@
 
 ![](https://github.com/rockxie/READ/blob/master/imgs/toupiaoyinzi.png?raw=true)
 
-	BookVotes：当日作品获得票数；TotalVotes：当日全网票数；Nodes：全网节点数
+	BookVotes：当日作品获得票数；TotalVotes：当日全网票数；Nodes：全网节点数；4.5投票因子可变系数，会根据实际情况调节。
 
 
 从以上公式可以看到，若出块节点作品没有任何投票，即 x = 0，则作品爆块收益率为固定比例 30%，称之为「裸挖」。例：作品 A 某日爆了 2 个阅点块，则其裸挖收益为 2 X 250 X 30% = 150 READ。
