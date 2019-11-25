@@ -203,7 +203,7 @@
 一部作品的版权积分( NT )总发行量为 1300 万。其中，100 万转为 NT 券用于版权众筹，100 万注入兑换池底池，100 万存入社区公共账户，用于众筹额外奖励，以及后期的具体运营（ 如空投 ）。剩下的 1000 万则用于共享挖矿，通过「版权积分写作挖矿」逐步分发给社区。
 
 
-![图](https://raw.githubusercontent.com/rockxie/READ/master/imgs/1300w.jpg)
+![图](https://static.lianzai.com/github/ntmining.png)
 
 #### 4.11 版权积分券( NT券 )
 
@@ -309,7 +309,7 @@ NT 的产生数量，将和创作字数密切相关，每百万字为一个阶�
 
 产生的 NT 将根据以下比例进行分配：作家 50% ，读者 5% ，天使投资人 20% ，连载平台 15%，作品社区账户 10%  。其中，在众筹期间，天使投资人的数量会持续增加，分配时按已经分发的 NT 券进行分红。
 
-![](https://github.com/rockxie/READ/blob/master/imgs/ntxiezuowakuang.jpg?raw=true)
+![](https://static.lianzai.com/github/wkfp.png)
 
 例，作家张三某日写作了 5000 字，根据算法，当日共有 10000 枚 NT 产出，则张三可获得 5000 NT，读者获得 3000 NT 奖励，天使投资人获得 1000 NT 分红，剩余 1000 NT 归平台所有。
 
@@ -389,7 +389,7 @@ NT 的产生数量，将和创作字数密切相关，每百万字为一个阶�
 
 ### 7.1 写作挖矿全景图
 
-![](https://static.lianzai.com/system/20190715/lz_1563174144311.jpg!FIXED1080W)
+![](https://static.lianzai.com/github/xzwk.jpg!FIXED1080W)
 
 ### 7.2 兑换池积分流动图
 
