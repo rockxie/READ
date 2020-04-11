@@ -263,7 +263,7 @@
 
 **若天使 A 每日获得的 NT券为 M，则：**
 
-![](https://github.com/rockxie/READ/blob/master/imgs/tianshihuode.png?raw=true)
+100000 * （InvestREAD/TotalREAD）
 
 	InvestREAD：当日天使 A 投入的 READ 数量；TotalREAD：当日总投入的 READ 数)
 
